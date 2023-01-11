@@ -11,4 +11,8 @@ public class HomePage {
     // logo
 
     // new changes to the homepage
+
+    // add more things
+
+    // footer
 }
